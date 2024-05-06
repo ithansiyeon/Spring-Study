@@ -1,7 +1,6 @@
 package hello.proxy;
 
 import hello.proxy.config.v1_proxy.ConcreateProxyConfig;
-import hello.proxy.config.v1_proxy.InterfaceProxyConfig;
 import hello.proxy.trace.logtrace.LogTrace;
 import hello.proxy.trace.logtrace.ThreadLocalLogTrace;
 import org.springframework.boot.SpringApplication;
